@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm 👋 Bharat</h1>
 
-<!--
-**reddybharat/reddybharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Backend+Developer;Love+building+with+FastAPI%2C+LangChain%2C+Docker;Currently+working+on+Research+Assistant+using+RAG" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **an Interactive Research Assistant using RAG & Streamlit** </br>
+- 🌱 Learning more about **LangGraph**, **Weaviate**, and **production-grade AI pipelines** </br>
+- 🧠 Freelancing in AI/NLP</br>
+- 🛠️ Building with `FastAPI`, `LangChain`, `Docker`, `Supabase`, and `Weaviate`</br>
+- 📫 [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
