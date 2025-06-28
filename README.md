@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Agentic AI** </br>
-- 🌱 Learning more about **LangGraph**, **production-grade AI pipelines** and **system design** </br>
+- 🌱 Learning more about **LangGraph**, **MCP**, **production-grade AI pipelines** and **system design** </br>
 - 🧠 Freelancing and working in AI/NLP</br>
 - 📫 Connect with me @ [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
 
