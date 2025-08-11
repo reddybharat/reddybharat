@@ -1,17 +1,9 @@
-<h1 align="center">Hi there, I'm 👋 Bharat</h1>
+<h1 >Hi there, I'm 👋 Bharat</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Backend+Developer" alt="Typing SVG" />
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Agentic AI** </br>
-- 🌱 Learning more about **LangGraph**, **MCP**, **production-grade AI pipelines** and **system design** </br>
-- 🧠 Freelancing and working in AI/NLP</br>
-- 📫 Connect with me @ [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
+- I’m a Generative AI Engineer and Backend Developer based in Assam, India.
+- Working on and learning more about  **Agentic AI**, **LangGraph**, **MCP**, **production-grade AI pipelines** and **system design** </br>
+- Freelancing and working in AI/NLP</br>
+- Connect with me @ [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
 
 
 # 💻 Tech Stack:
