@@ -1,8 +1,8 @@
 <h1 >Hi there, I'm 👋 Bharat</h1>
 
-- I’m a Generative AI Engineer and Backend Developer based in Assam, India.
+- I’m a AI Engineer with expertise in backend.
+- Currently based in Assam, India.
 - Working on and learning more about  **Agentic AI**, **LangGraph**, **MCP**, **production-grade AI pipelines** and **system design** </br>
-- Freelancing and working in AI/NLP</br>
 - Connect with me @ [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
 
 
