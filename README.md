@@ -1,8 +1,6 @@
 <h1 >Hi there, I'm 👋 Bharat</h1>
 
-- I’m a AI Engineer with expertise in backend.
-- Currently based in Assam, India.
-- Working on and learning more about  **Agentic AI**, **LangGraph**, **MCP**, **production-grade AI pipelines** and **system design** </br>
+- I’m an AI Engineer based out of Assam, India.
 - Connect with me @ [Linkedin](https://www.linkedin.com/in/bbharatreddy/) </br>
 
 
